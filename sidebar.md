@@ -1,16 +1,16 @@
-### Setting Up CFW
-- [Getting Started](https://multimegamander.github.io/3DS-Guide/Getting-Started/)
-- [Setting Up fastboot3DS](https://multimegamander.github.io/3DS-Guide/fastboot3DS/)
-- [Setting Up Luma3DS](https://multimegamander.github.io/3DS-Guide/Luma3DS/)
-- [Installing Common Homebrew](https://multimegamander.github.io/3DS-Guide/homebrew/)
-- [Optional - Setting up NTR CFW](https://multimegamander.github.io/3DS-Guide/NTR/)
-## Setting Up Development Environment
-- [Setting Up devkitARM and libctru](https://multimegamander.github.io/3DS-Guide/devkitARM/)
-- [Optional - Setting Up Citra](https://multimegamander.github.io/3DS-Guide/Citra/)
-- [Setting Up CIA Generation](https://multimegamander.github.io/3DS-Guide/CIA/)
-- [Setting Up FIRM Generation](https://multimegamander.github.io/3DS-Guide/firm/)
-- [Sysmodule development](https://multimegamander.github.io/3DS-Guide/sysmodule/)
-### Other
-- [Credits](https://multimegamander.github.io/3DS-Guide/Credits/)
-- [FAQs](https://multimegamander.github.io/3DS-Guide/FAQ/)
-- [Help!](https://discord.gg/)
+- **Setting Up CFW**
+  - [Getting Started](https://multimegamander.github.io/3DS-Guide/Getting-Started/)
+  - [Setting Up fastboot3DS](https://multimegamander.github.io/3DS-Guide/fastboot3DS/)
+  - [Setting Up Luma3DS](https://multimegamander.github.io/3DS-Guide/Luma3DS/)
+  - [Installing Common Homebrew](https://multimegamander.github.io/3DS-Guide/homebrew/)
+  - [Optional - Setting up NTR CFW](https://multimegamander.github.io/3DS-Guide/NTR/)
+- **Setting Up Development Environment**
+  - [Setting Up devkitARM and libctru](https://multimegamander.github.io/3DS-Guide/devkitARM/)
+  - [Optional - Setting Up Citra](https://multimegamander.github.io/3DS-Guide/Citra/)
+  - [Setting Up CIA Generation](https://multimegamander.github.io/3DS-Guide/CIA/)
+  - [Setting Up FIRM Generation](https://multimegamander.github.io/3DS-Guide/firm/)
+  - [Sysmodule development](https://multimegamander.github.io/3DS-Guide/sysmodule/)
+- **Other**
+  - [Credits](https://multimegamander.github.io/3DS-Guide/Credits/)
+  - [FAQs](https://multimegamander.github.io/3DS-Guide/FAQ/)
+  - [Help!](https://discord.gg/)
