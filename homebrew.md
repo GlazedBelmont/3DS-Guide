@@ -13,6 +13,7 @@ This will get you the most used homebrew to begin the rabbit hole that is 3DS ho
 - [Anemone3DS](https://github.com/astronautlevel2/Anemone3DS/releases)
 - [RetroArch](https://buildbot.libretro.com/stable/1.8.1/nintendo/3ds/RetroArch_cia.7z)
 - [Checkpoint](https://github.com/FlagBrew/Checkpoint/releases)
+- [Sharkive](https://github.com/FlagBrew/Sharkive/releases)
 
 ### Instructions
 1. Extract all of the homebrew, and paste every cia to SD:/cias
