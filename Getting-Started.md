@@ -4,11 +4,12 @@ This will get you the steps of using OFI (open firm installer), but first make s
 ### Seedminer
 Seedminer is an unpatchable exlpoit that allows you to bruteforce your movable.sed and sign custom saves, we will use this to sign a hacked save allowing us to boot custom code (in our case, OFI)
 
-#### Prerequisites
+### Prerequisites
  - internet connection on 3DS
  - browser access on PC
  - SD access on PC (or phone)
  
+ ### Instructions
  1. navigate to the Nintendo 3DS folder on your SD card
  2. Copy the 32 character long name of the folder you see inside Nintendo 3DS
     - the 32 character long name is called id0, and will be referred to that for the rest of the guide
