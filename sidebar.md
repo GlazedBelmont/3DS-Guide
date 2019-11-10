@@ -4,9 +4,9 @@
 - **Setting Up Development Environment**
   - [Setting Up devkitARM and libctru](/devkitARM)
   - [Optional - Setting Up Emulation](/Emulation)
-  - [Setting Up CIA Generation](/CIA)
-  - [Setting Up FIRM Generation](/firm)
-  - [Sysmodule development](/sysmodule)
+  - [O[tional - Setting Up CIA Generation](/CIA)
+  - [Optional - Setting Up FIRM Generation](/firm)
+  - [Optional - Sysmodule development](/sysmodule)
 - **Other**
   - [Credits](/Credits)
   - [FAQs](/FAQ)
