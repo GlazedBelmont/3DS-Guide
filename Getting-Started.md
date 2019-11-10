@@ -9,7 +9,7 @@ Seedminer is an unpatchable exlpoit that allows you to bruteforce your movable.s
  - browser access on PC
  - SD access on PC (or phone)
  
- ### Instructions
+### Instructions
  1. navigate to the Nintendo 3DS folder on your SD card
  2. Copy the 32 character long name of the folder you see inside Nintendo 3DS
     - the 32 character long name is called id0, and will be referred to that for the rest of the guide
