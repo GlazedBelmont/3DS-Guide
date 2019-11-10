@@ -1,7 +1,6 @@
 - **Setting Up CFW**
   - [Getting Started](/Getting-Started)
   - [Installing Common Homebrew](/homebrew)
-  - [Optional - Setting up NTR CFW](/NTR)
 - **Setting Up Development Environment**
   - [Setting Up devkitARM and libctru](/devkitARM)
   - [Optional - Setting Up Citra](/Citra)
