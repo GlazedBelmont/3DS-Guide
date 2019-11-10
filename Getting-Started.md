@@ -2,7 +2,7 @@
 This will get you the steps of fastboot3DS and Luma3DS, but first make sure to update to the latest version (currently 11.12.0-44)
 
 ### Seedminer
-Seedminer is an unpatchable exlpoit that allows you to bruteforce your movable.sed and sign custom saves, we will use this to sign a hacked save allowing us to boot custom code (in our case, fb3dstool)
+Seedminer is an unpatchable exploit that allows you to bruteforce your movable.sed and sign custom saves, we will use this to sign a hacked save allowing us to boot custom code (in our case, fb3dstool)
 
 ### Prerequisites
  - internet connection on 3DS
