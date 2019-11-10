@@ -7,7 +7,7 @@ This will get you the most used homebrew to begin the rabbit hole that is 3DS ho
   - you should have both if you've been following this guide
   
 ### What you need
-- [FBI](github.com/Steveice10/FBI/releases)
+- [FBI](https://github.com/Steveice10/FBI/releases)
   - grab 3dsx too
 - [GodMode9](https://github.com/d0k3/GodMode9/releases)
 - [Anemone3DS](https://github.com/astronautlevel2/Anemone3DS/releases)
