@@ -3,7 +3,7 @@
   - [Installing Common Homebrew](/homebrew)
 - **Setting Up Development Environment**
   - [Setting Up devkitARM and libctru](/devkitARM)
-  - [Optional - Setting Up Citra](/Citra)
+  - [Optional - Setting Up Emulation](/Emulator)
   - [Setting Up CIA Generation](/CIA)
   - [Setting Up FIRM Generation](/firm)
   - [Sysmodule development](/sysmodule)
