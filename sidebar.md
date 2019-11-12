@@ -1,13 +1,2 @@
-- **Setting Up CFW**
-  - [Getting Started](/Getting-Started)
-  - [Installing Common Homebrew](/homebrew)
-- **Setting Up Development Environment**
-  - [Setting Up devkitARM and libctru](/devkitARM)
-  - [Optional - Setting Up Emulation](/Emulation)
-  - [Otional - Setting Up CIA Generation](/CIA)
-  - [Optional - Setting Up FIRM Generation](/firm)
-  - [Optional - Sysmodule development](/sysmodule)
-- **Other**
-  - [Credits](/Credits)
-  - [FAQs](/FAQ)
-  - [Help!](https://discord.gg/)
+
+  - [Help!](https://discord.gg/C29hYvh)
